@@ -1,0 +1,114 @@
+/* DeviceManagementPage.css */
+
+/* Container styles */
+.container {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;
+  }
+  
+  /* Page title styles */
+  .page-title {
+    color: #333; /* Dark text color */
+  }
+  
+  /* Card styles */
+  .card-container {
+    background-color: #fff; /* White background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form styles */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  /* Input styles */
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 5px;
+  }
+  
+  /* Button styles */
+  .btn-primary {
+    background-color: #007bff; /* Primary color */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff; /* White text color */
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker shade of primary color */
+  }
+  
+  .btn-danger {
+    background-color: #dc3545; /* Danger color */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff; /* White text color */
+    cursor: pointer;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333; /* Darker shade of danger color */
+  }
+  
+  .btn-success {
+    background-color: #28a745; /* Success color */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff; /* White text color */
+    cursor: pointer;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838; /* Darker shade of success color */
+  }
+  
+  /* Table styles */
+  .table {
+    background-color: #fff; /* White background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  /* Table header styles */
+  .table th {
+    background-color: #007bff; /* Primary color */
+    color: #fff; /* White text color */
+    padding: 10px;
+  }
+  
+  /* Table body styles */
+  .table td {
+    padding: 10px;
+  }
+  
+  /* Selected device styles */
+  .selected-device {
+    background-color: #fff; /* White background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Selected device title styles */
+  .selected-device h3 {
+    color: #333; /* Dark text color */
+    margin-bottom: 10px;
+  }
+  
+  /* Selected device details styles */
+  .selected-device p {
+    margin: 5px 0;
+  }
+  
